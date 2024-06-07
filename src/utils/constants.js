@@ -147,8 +147,8 @@ export const skillsData = [
 export const workData = [
   {
     company: "Aditya Birla Group",
-    designation: "Software Engineer 2",
-    duration: "March 2022 - Present",
+    designation: "Intern Information Technolofy",
+    duration: "May 2022 - Present",
     companyImg: "aditya.jpeg",
     description: (
       <>
